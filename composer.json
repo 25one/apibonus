@@ -1,0 +1,11 @@
+{
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/25one/apibonus"
+        }
+    ],
+    "require": {
+        "25one/apibonus": "dev-bugfix"
+    }
+}
