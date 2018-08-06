@@ -3,6 +3,7 @@
   "php":">=5.3.0",
   "25one/apibonus":"*"
   },
+  "name":"25one/apibonus", 
   "repositories":[
   {
     "type":"git",
